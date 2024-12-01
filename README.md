@@ -39,7 +39,7 @@
     </a>
 </p>
 
-### Badges
+### Skills
 
 <!--<b>Certificates earned</b>-->
 <p align="left">
