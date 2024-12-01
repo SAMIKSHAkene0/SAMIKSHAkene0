@@ -21,7 +21,7 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,postman,figma,vscode,eclipse,c,java,python,react,nextjs,nodejs,expressjs,mongo,firebase,git,github" />
 </p>
-
+-->
 ### Socials
 
 <p align="left">
@@ -50,7 +50,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
 
 
 ### Skills
