@@ -19,15 +19,12 @@
 ### Skills
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,threejs,c,java,python,react,nextjs,tailwind,styledcomponents,nodejs,expressjs,prisma,mongo,firebase,git,github,postman,figma,vscode,idea,eclipse" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,postman,figma,vscode,eclipse,c,java,python,react,nextjs,nodejs,expressjs,mongo,firebase,git,github" />
 </p>
 
 ### Socials
 
 <p align="left">
-    <a href="https://www.dev.to/samikshakene" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=devto" />
-    </a>
     <a href="https://www.github.com/samikhsakene0" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=github" />
     </a>
@@ -36,6 +33,9 @@
     </a>
     <a href="https://www.twitter.com/samiksha-kene" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+    <a href="https://www.dev.to/samikshakene" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=devto" />
     </a>
 </p>
 
@@ -48,4 +48,27 @@
 
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+### Skills
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+#### Skills
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+### Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
