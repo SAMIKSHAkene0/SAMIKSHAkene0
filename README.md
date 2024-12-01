@@ -1,39 +1,50 @@
 ## Hi there 👋
 
-###  My name is Samiksha Kene**
 
-##  👩‍💻 Samiksha Pradeep Kene
-##  🎓 B-Tech IT (2021-25)
-##  🌍 Maharashtra, India | 
+## 👩‍💻 Samiksha Pradeep Kene
 
-###  🔧 Full Stack Developer | Blockchain Enthusiast | Cloud Computing Explorer
+🎓 B-Tech IT (2021-25)
+🌍 Maharashtra, India | 
 
-##  🚀 Always learning, always growing—currently leveling up in Backend Development.
-##  🤝 Open to collaborating on fun and interesting web projects. Let’s build something amazing together!
+🔧 Full Stack Developer | Blockchain Enthusiast | Cloud Computing Explorer
+🚀 Always learning, always growing—currently leveling up in Backend Development.
+🤝 Open to collaborating on fun and interesting web projects. Let’s build something amazing together!
 
-## 🌱 Passionate about coding, exploring new tech, and staying curious to expand my skill set.
-## ⚡ If overthinking was a sport, I’d be a Hall of Famer 😶‍🌫️
+🌱 Passionate about coding, exploring new tech, and staying curious to expand my skill set.
+⚡ If overthinking was a sport, I’d be a Hall of Famer 😶‍🌫️
 
 📬 Contact: samikshakene0@gmail.com
 
-# Samiksha Pradeep Kene
 
-# Samiksha Pradeep Kene
 
-### Connect with me
 
-- [![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/yourusername)  
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" width="50">
-- [![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/yourusername)  
-  <img src="https://cdn.simpleicons.org/github/181717" height="50" width="50">
-- [![Twitter](https://cdn.simpleicons.org/twitter/1DA1F2)](https://twitter.com/yourusername)  
-  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="50" width="50">
-- [![Instagram](https://cdn.simpleicons.org/instagram/E4405F)](https://www.instagram.com/yourusername)  
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" width="50">
 
----
 
-Feel free to reach out if you want to collaborate on exciting projects! 🎉
+<a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="50" width="50" />
+</a>
+
+<a href="https://github.com/yourusername" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="50" width="50" />
+</a>
+
+<!--<a href="https://twitter.com/yourusername" target="_blank">
+  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" height="50" width="50" />
+</a>-->
+
+<a href="https://leetcode.com/yourusername" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FF2A00" alt="LeetCode" height="50" width="50" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/009639" alt="GeeksforGeeks" height="50" width="50" />
+</a>
+
+<!--<a href="https://www.microsoft.com/en-us" target="_blank">
+  <img src="https://cdn.simpleicons.org/microsoft/00A4EF" alt="Microsoft" height="50" width="50" />
+</a>-->
+
+
 
 
 
