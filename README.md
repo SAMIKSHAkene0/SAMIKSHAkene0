@@ -1,19 +1,39 @@
 ## Hi there 👋
-**My name is Samiksha Kene**
 
-👩‍💻 Samiksha Pradeep Kene
-🎓 B-Tech IT (2021-25)
-🌍 Maharashtra, India | 
+###  My name is Samiksha Kene**
 
-🔧 Full Stack Developer | Blockchain Enthusiast | Cloud Computing Explorer
-🚀 Always learning, always growing—currently leveling up in Backend Development.
-🤝 Open to collaborating on fun and interesting web projects. Let’s build something amazing together!
+##  👩‍💻 Samiksha Pradeep Kene
+##  🎓 B-Tech IT (2021-25)
+##  🌍 Maharashtra, India | 
 
-🌱 Passionate about coding, exploring new tech, and staying curious to expand my skill set.
-⚡ If overthinking was a sport, I’d be a Hall of Famer 😶‍🌫️
+###  🔧 Full Stack Developer | Blockchain Enthusiast | Cloud Computing Explorer
+
+##  🚀 Always learning, always growing—currently leveling up in Backend Development.
+##  🤝 Open to collaborating on fun and interesting web projects. Let’s build something amazing together!
+
+## 🌱 Passionate about coding, exploring new tech, and staying curious to expand my skill set.
+## ⚡ If overthinking was a sport, I’d be a Hall of Famer 😶‍🌫️
 
 📬 Contact: samikshakene0@gmail.com
 
+# Samiksha Pradeep Kene
+
+# Samiksha Pradeep Kene
+
+### Connect with me
+
+- [![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/yourusername)  
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" width="50">
+- [![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/yourusername)  
+  <img src="https://cdn.simpleicons.org/github/181717" height="50" width="50">
+- [![Twitter](https://cdn.simpleicons.org/twitter/1DA1F2)](https://twitter.com/yourusername)  
+  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="50" width="50">
+- [![Instagram](https://cdn.simpleicons.org/instagram/E4405F)](https://www.instagram.com/yourusername)  
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" width="50">
+
+---
+
+Feel free to reach out if you want to collaborate on exciting projects! 🎉
 
 
 
